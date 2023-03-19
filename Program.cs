@@ -13,6 +13,9 @@ namespace tpmodul5kpl_1302213003
 
             sapa.SapaUser(X);
 
+            DataGeneric<String> data_saved = new DataGeneric<string>("1302213003");
+
+            data_saved.PrintData();
         }
     }
 }

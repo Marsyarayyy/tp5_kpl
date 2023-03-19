@@ -1,0 +1,15 @@
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.csproj.AssemblyReference.cache
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.AssemblyInfoInputs.cache
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.AssemblyInfo.cs
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\bin\Debug\net6.0\tpmodul5kpl_1302213003.exe
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\bin\Debug\net6.0\tpmodul5kpl_1302213003.deps.json
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\bin\Debug\net6.0\tpmodul5kpl_1302213003.runtimeconfig.json
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\bin\Debug\net6.0\tpmodul5kpl_1302213003.dll
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\bin\Debug\net6.0\tpmodul5kpl_1302213003.pdb
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.dll
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\refint\tpmodul5kpl_1302213003.dll
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.pdb
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\tpmodul5kpl_1302213003.genruntimeconfig.cache
+C:\Users\marsy\Downloads\KPL\tpmodul5kpl_1302213003\obj\Debug\net6.0\ref\tpmodul5kpl_1302213003.dll
